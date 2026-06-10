@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Lindah 👋
 
-<!--
-**Lindah-Kima/Lindah-Kima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build analytics and decision-support solutions using Power BI, SQL, Python, and PostgreSQL.
 
-Here are some ideas to get you started:
+My work spans business intelligence, data warehousing, predictive modeling, and reporting systems, with a focus on turning business questions into measurable outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Analytics Engineering
+- Business Intelligence
+- Data Warehousing
+- Machine Learning
+- Cloud Analytics
+
+## Featured Project
+
+### Olist Ecommerce Decision Intelligence Platform
+
+End-to-end data platform combining Medallion Architecture, dimensional modeling, Power BI, machine learning, FastAPI, and Docker to support reporting, analytics, and predictive decision-making.
+
+## Selected Projects
+
+- Banking Credit Risk Modeling and Scorecard Development
+- Mexico Housing Analysis
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/lindah-kima/)
+- [Portfolio](https://www.datascienceportfol.io/lindahkima2)
+- [Medium](https://github.com/Lindah-Kima)
