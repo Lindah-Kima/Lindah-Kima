@@ -14,7 +14,7 @@ My work spans business intelligence, data warehousing, predictive modeling, and 
 
 ## Featured Project
 
-### Olist Ecommerce Decision Intelligence Platform
+### Olist Ecommerce Decision Intelligence Platform - In Progress
 
 End-to-end data platform combining Medallion Architecture, dimensional modeling, Power BI, machine learning, FastAPI, and Docker to support reporting, analytics, and predictive decision-making.
 
@@ -23,7 +23,7 @@ End-to-end data platform combining Medallion Architecture, dimensional modeling,
 - Banking Credit Risk Modeling and Scorecard Development
 - Mexico Housing Analysis
 
-## Connect
+## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/lindah-kima/)
 - [Portfolio](https://www.datascienceportfol.io/lindahkima2)
