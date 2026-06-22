@@ -26,6 +26,6 @@ End-to-end data platform combining Medallion Architecture, dimensional modeling,
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/lindah-kima/)
-- [Portfolio](datascienceportfol.io/Lindah)
+- [Portfolio](https://datascienceportfol.io/Lindah)
 - [Credly](https://www.credly.com/users/lindah-kima)
-- [Medium](https://github.com/Lindah-Kima)
+- [Medium](https://medium.com/@lindah-insights)
