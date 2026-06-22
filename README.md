@@ -1,27 +1,30 @@
 # Hi, I'm Lindah 👋
 
-I build analytics and decision-support solutions using Power BI, SQL, Python, and PostgreSQL.
+I'm a Data Analyst with a growing focus on Data Science and decision support.
 
-My work spans business intelligence, data warehousing, predictive modeling, and reporting systems, with a focus on turning business questions into measurable outcomes.
+I use Power BI, SQL, Python, and PostgreSQL to turn data into insights that help answer business questions and guide action.
+
+I'm particularly interested in understanding not just what happened, but why it happened, what is likely to happen next, and how intelligent systems can support better decisions.
 
 ## Areas of Interest
 
-- Analytics Engineering
-- Business Intelligence
-- Data Warehousing
-- Machine Learning
-- Cloud Analytics
+* Business Intelligence
+* Data Science
+* Predictive & Prescriptive Analytics
+* Machine Learning
+* Decision Support Systems
 
 ## Featured Project
 
-### Olist Ecommerce Decision Intelligence Platform - In Progress
+### Olist Ecommerce Decision Intelligence Platform *(In Progress)*
 
-End-to-end data platform combining Medallion Architecture, dimensional modeling, Power BI, machine learning, FastAPI, and Docker to support reporting, analytics, and predictive decision-making.
+An end-to-end decision intelligence platform built on Medallion Architecture and Kimball dimensional modeling, combining Power BI, machine learning, FastAPI, Docker, and AI-assisted decision support to deliver analytics, forecasts, and business recommendations.
 
 ## Selected Projects
 
 - Banking Credit Risk Modeling and Scorecard Development
 - Mexico Housing Analysis
+- Sales Performance Analytics Dashboard
 
 ## Let's Connect
 
