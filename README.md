@@ -1,28 +1,32 @@
 # Hi, I'm Lindah 👋
 
-I'm a Data Analyst with a growing focus on Data Science and decision support.
+I'm an Emerging Data Scientist focused on credit risk and lending analytics.
 
-I use Power BI, SQL, Python, and PostgreSQL to turn data into insights that help answer business questions and guide action.
+I use SQL, Python, Power BI, and PostgreSQL to build, deploy, and improve data-driven solutions that support better business decisions.
 
-I'm particularly interested in understanding not just what happened, but why it happened, what is likely to happen next, and how intelligent systems can support better decisions.
+My interests span credit risk, machine learning, applied AI, and the end-to-end development of analytics solutions—from data preparation and modeling to deployment and decision support.
 
 ## Areas of Interest
 
-* Business Intelligence
-* Data Science
-* Predictive & Prescriptive Analytics
-* Machine Learning
-* Decision Support Systems
+- Credit Risk Scoring
+- Lending Analytics
+- Machine Learning & Applied AI
+- Predictive Analytics
+- Business Intelligence
 
-## Featured Project
+## Current Projects
 
-### Olist Ecommerce Decision Intelligence Platform *(In Progress)*
+### Olist E-commerce Analytics Platform *(In Progress)*
 
-An end-to-end decision intelligence platform built on Medallion Architecture and Kimball dimensional modeling, combining Power BI, machine learning, FastAPI, Docker, and AI-assisted decision support to deliver analytics, forecasts, and business recommendations.
+An end-to-end analytics platform built with PostgreSQL, SQL, and Power BI, applying dimensional modeling to transform operational data into business insights and interactive dashboards.
 
-## Selected Projects
+### Credit Risk Scoring *(In Progress)*
 
-- Banking Credit Risk Modeling and Scorecard Development
+Building a credit risk scoring project to understand the end-to-end process of risk analysis, predictive modeling, and scorecard development for lending decisions.
+
+## Learning Projects
+
+- Banking Credit Risk Modeling and Scorecard Development (Course Project)
 - Mexico Housing Analysis
 - Sales Performance Analytics Dashboard
 
